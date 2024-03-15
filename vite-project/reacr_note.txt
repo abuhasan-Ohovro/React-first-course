@@ -1,0 +1,2 @@
+1. React also his own document. The document of React is called virtual DOM.
+// If you want made a component in vite you always name thr funtion name with capital letter. This procedure also work in React project also.
